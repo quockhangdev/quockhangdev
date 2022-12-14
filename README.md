@@ -24,3 +24,5 @@ I have more than a year of experience working as a backend developer at the mome
 2. Paperless Cross-Border Trade
 
 3. Fair Supply Chain in Ghana
+
+Please check the website of my company for additional information.
