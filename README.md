@@ -25,4 +25,6 @@ I have more than a year of experience working as a backend developer at the mome
 
 3. Fair Supply Chain in Ghana
 
+4. Commonlands: Securing Land & Loans in Emerging Markets
+
 Please check the website of my company for additional information.
