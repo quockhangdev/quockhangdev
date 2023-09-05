@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 😄 Please check the website of my company for additional information.
 
-![Skills](https://skillicons.dev/icons?i=cloudflare,github,c,cpp,html,js,ts,css,py,md,bash,docker,git,mongodb,mysql,redis,linux,nginx,vscode,express,jquery,nodejs,nestjs,vue,wasm)
+![Skills](https://skillicons.dev/icons?i=aws,aws,bash,bootstrap,c,cpp,css,discord,docker,express,fastapi,firebase,flask,git,github,haskell,heroku,html,ipfs,js,jest,jquery,latex,linux,md,mongodb,mysql,nestjs,nextjs,nginx,nodejs,postman,py,pytorch,selenium,solidity,tensorflow,ts,vscode)
