@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 😄 Please check the website of my company for additional information.
 
-![Skills](https://skillicons.dev/icons?i=cloudflare,workers,github,c,cpp,html,js,ts,css,py,md,bash,docker,git,mongodb,mysql,redis,linux,nginx,vscode,express,jquery,nodejs,nestjs,vue,wasm)
+![Skills](https://skillicons.dev/icons?i=cloudflare,github,c,cpp,html,js,ts,css,py,md,bash,docker,git,mongodb,mysql,redis,linux,nginx,vscode,express,jquery,nodejs,nestjs,vue,wasm)
