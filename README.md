@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Several of the projects I have worked on include:
 
-1. Dominium: Self Sovereign Identity.
+1. Dominium: Self Sovereign Identity (Cardano, Algorand, Ethereum).
 
 2. TradeTrust: Paperless Cross-Border Trade.
 
@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 4. Commonlands: Securing Land & Loans in Emerging Markets.
 
 5. Sprynt: The Fastest Crypto Payment Stack. Near-instant crypto payments across blockchains, fully decentralised, without bridge or compromise.
+
+6. MiraiScribe: Use a large language model to analyze the form and ask questions to collect user information, then automatically fill in the form.
+
+7. ICanProveIt: A tool to support self-assessment of personal knowledge using a large language model, issuing certificates using DID and Stellar blockchain network on Soroban smart contract.
 
 😄 Please check the website of my company for additional information.
 
