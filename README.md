@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, my name is Khang. I am from Fuixlabs.
 
-💬 I have more than two year of experience working as a backend developer at the moment.
+I am currently a master's student in Computer Science at Can Tho University after graduating from the university with a bachelor's degree in Computer Science at the same university.
+
+Beside that, 💬 I also have more than two year of experience working as a backend developer at the moment.
 
 ### Several of the projects I have worked on include:
 
