@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, my name is Khang. I am from Fuixlabs.
+
+### Hi there 👋, my name is Khang. I am from Can Tho University.
+
+<!--
 
 I am currently a master's student in Computer Science at Can Tho University after graduating from the university with a bachelor's degree in Computer Science at the same university.
 
@@ -38,3 +41,5 @@ Beside that, 💬 I also have more than two year of experience working as a back
 😄 Please check the website of my company for additional information.
 
 ![Skills](https://skillicons.dev/icons?i=aws,aws,bash,bootstrap,c,cpp,css,discord,docker,express,fastapi,firebase,flask,git,github,haskell,heroku,html,ipfs,js,jest,jquery,latex,linux,md,mongodb,mysql,nestjs,nextjs,nginx,nodejs,postman,py,pytorch,selenium,solidity,tensorflow,ts,vscode)
+
+-->
